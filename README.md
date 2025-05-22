@@ -51,7 +51,7 @@ This UserScript is released under the [MIT License](https://opensource.org/licen
 
 ## 👨‍💻 Author
 
-Hayaokuri
+Hayaokuri(https://github.com/hayaokuri)
 
 ## 📄 Version
 
